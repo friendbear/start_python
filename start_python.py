@@ -130,4 +130,6 @@ if pref > "Osaka":
 	print("pref is over Tokyo")
 
 # Function
+def Function1():
+	print("Function1")
 
