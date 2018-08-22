@@ -128,3 +128,6 @@ pref = "Tokyo"
 
 if pref > "Osaka":
 	print("pref is over Tokyo")
+
+# Function
+
